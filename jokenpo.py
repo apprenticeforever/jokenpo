@@ -5,7 +5,6 @@ meu_github = 'github.com/marcosbackend'
 print(f"Bem-vindo ao Jokenpo!\nFeito por: {meu_github}")
 
 while True:
-
 	escolha = input("\nDigite 'c' para continuar, 'd' para detalhes sobre o jogo,"
 		+ " ou, digite qualquer tecla para sair: ")
 
@@ -18,3 +17,5 @@ while True:
 	elif escolha.lower() != 'c' or escolha.lower != 'd':
 		print("\nUma pena não podermos jogar agora! :(\n")
 		break
+	else:
+		None
