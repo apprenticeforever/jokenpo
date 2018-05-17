@@ -6,7 +6,7 @@ print(f"Bem-vindo ao Jokenpo!\nFeito por: {meu_github}")
 
 while True:
 
-	escolha = input("\nDigite 'c' para continuar, 'd' para detalhes sobre o jogo"
+	escolha = input("\nDigite 'c' para continuar, 'd' para detalhes sobre o jogo,"
 		+ " ou, digite qualquer tecla para sair: ")
 
 	if escolha.lower() == 'c':
