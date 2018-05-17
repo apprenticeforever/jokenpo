@@ -18,4 +18,4 @@ while True:
 		print("\nUma pena não podermos jogar agora! :(\n")
 		break
 	else:
-		None
+		pass
