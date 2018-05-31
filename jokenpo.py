@@ -1,7 +1,7 @@
 import jokenpo_config as joken
 import detalhes as det
 
-meu_github = 'github.com/marcosbackend'
+meu_github = 'github.com/apprenticeforever'
 print(f"Bem-vindo ao Jokenpo!\nFeito por: {meu_github}")
 
 while True:
